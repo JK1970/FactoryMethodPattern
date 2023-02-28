@@ -1,4 +1,4 @@
-namespace FactoryMethodPattern.Models
+namespace FactoryMethodPattern
 {
     internal class CarFactory : TransportationFactory
     {

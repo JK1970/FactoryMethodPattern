@@ -1,4 +1,4 @@
-namespace FactoryMethodPattern.Models
+namespace FactoryMethodPattern
 {
     internal abstract class Transportation
     {

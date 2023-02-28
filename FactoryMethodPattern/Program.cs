@@ -1,6 +1,4 @@
-﻿using FactoryMethodPattern.Models;
-
-namespace FactoryMethodPattern
+﻿namespace FactoryMethodPattern
 {
     public class Program
     {
