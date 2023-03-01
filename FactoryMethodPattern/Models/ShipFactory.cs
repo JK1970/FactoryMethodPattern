@@ -1,3 +1,5 @@
+using FactoryMethodPattern.Models;
+
 namespace FactoryMethodPattern
 {
     internal class ShipFactory : TransportationFactory
